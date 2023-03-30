@@ -2,7 +2,7 @@
 firstname: "Ossi"
 lastname: "Väänänen"
 position: "Co-founder, Member of the board"
-weight: 4
+weight: 3
 twitter: ""
 linkedin: ""
 instagram: ""
