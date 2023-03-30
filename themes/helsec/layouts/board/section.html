@@ -48,6 +48,9 @@
             {{ if .Params.email }}
             <a href="mailto:{{ .Params.email }}" target="_blank" ><i class="fas fa-envelope"></i></a>
             {{ end }}
+            {{ if .Params.mastodon }}
+            <a href="{{ .Params.mastodon }}" target="_blank" ><i class="fab fa-mastodon"></i></a>
+            {{ end }}
           </figcaption>
         </figure>
         </section>
