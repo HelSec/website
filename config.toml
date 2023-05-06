@@ -178,6 +178,13 @@ disableHugoGeneratorInject = false
     url        = "about/coe/"
     weight     = "5"
 
+  [[menu.main]]
+    identifier = "legend"
+    name       = "Legend Coin"
+    parent     = "about"
+    url        = "about/legend/"
+    weight     = "5"
+
 # FAQ
 
   [[menu.main]]
