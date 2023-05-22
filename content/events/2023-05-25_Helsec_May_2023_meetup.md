@@ -23,7 +23,7 @@ Food & beverages will be available.
 18:00 - Word by HelSec & WithSecure  
 18:15 - "I'm a script kiddie, bypassing your antivirus software" by Anne Hautakangas  
 19:00 - Q&A, networking  
-19:15 - TBA by Marcus Murray  
+19:15 - "What we can do better in cyber security?" by Marcus Murray  
 20:00 - Q&A, networking  
 20:15 - "This Ain't No Place For No Hero" by Mikko Hyppönen  
 21:00 - Q&A, networking, end of stream  
