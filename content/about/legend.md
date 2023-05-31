@@ -6,6 +6,7 @@ The following individuals or entities have contributed to Helsec in a worthy man
 
 - Ilhan Gurel
 - Joona Hoikkala
+- Mikko Hyppönen
 - Samuli Järvinen
 - Laura Kankaala
 - Antti Kurittu
@@ -13,3 +14,8 @@ The following individuals or entities have contributed to Helsec in a worthy man
 - Heikki Stark
 - Niklas Särökaari
 - Joakim Tauren
+
+Legend perks:
+
+- The eternal debt of gratitude
+- Reserved seat at events
