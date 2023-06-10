@@ -75,6 +75,10 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/HelSecurity/"
 
   [[params.social]]
+    icon = "fab fa-youtube"
+    url  = "https://www.youtube.com/@helsec8475"
+
+  [[params.social]]
     icon = "fab fa-linkedin"
     url  = "https://fi.linkedin.com/company/helsec"
 
