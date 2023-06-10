@@ -19,7 +19,7 @@ layoutDir    = "layouts"
 publishDir   = "public"
 
 buildDrafts  = false
-buildFuture  = false
+buildFuture  = true
 buildExpired = false
 canonifyURLs = true
 
@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:title/"
 
 [author]
-  name = "Juho Jauhiainen"
+  name = "Helsec"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -115,7 +115,6 @@ disableHugoGeneratorInject = false
     name       = "Membership"
     weight     = "3"
 
-
   [[menu.main]]
     identifier = "docs"
     parent     = "membership"
@@ -184,6 +183,14 @@ disableHugoGeneratorInject = false
     parent     = "about"
     url        = "about/legend/"
     weight     = "5"
+
+# Photo gallery
+
+  [[menu.main]]
+    identifier = "gallery"
+    name       = "Photo gallery"
+    url        = "gallery/"
+    weight     = "9"
 
 # FAQ
 
