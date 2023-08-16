@@ -20,7 +20,7 @@ We will reserve 70 spots for members & remaining 30 will be up for open registra
 
  17:30 - Doors open  
 18:00 - Word by HelSec & Truesec  
-18:15 - TBA - by TBA  
+18:15 - macOS ransomware in 2023 - how it operates, what are the constraints and how to detect it? by Rihards Guzovs & Aleksei Sapitskii  
 19:00 - Q&A, networking  
 19:15 - Why do we need security in operational environments? by Jan Staf & Jukka Springare  
 20:00-> Q&A, networking, end of stream
@@ -29,7 +29,11 @@ We will reserve 70 spots for members & remaining 30 will be up for open registra
 
  Speaker bios:
 
- 🔷 TBA
+ 🔷 Rihards Guzovs - Researcher, F-Secure  
+Rihards is primarily focusing on Android and macOS research, looking into both internals and malware. His other interests are within the application security domain, bartending and traveling.
+
+ 🔷 Aleksei Sapitskii – Software Developer, F-Secure  
+Aleksei has a passion for mobile and desktop development, especially on Apple platforms and enthusiastic about scalable security solutions. The key characteristic of him is curiosity and willingness to find new opportunities and idea either in technology or in life. He spends free time by travelling, cycling and of course by nurturing pet projects.
 
  🔷 Jan Staf – Head of OT cyber security, Reformo Networks  
 Jan has been working with networks since he graduated in the early 90’s. The interest for security started due to 911, but the passion for security on networks grew whilst he lived in Africa and the Middle East. Ever since he moved back to Finland in 2012 the main part of his work has been securing OT network environments. Free time is spent with family, summertime sailing whenever possible.
