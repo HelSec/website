@@ -28,7 +28,7 @@ Welcome to the HelSec September 2023 Meetup!
 
  **19:00** \- Q&A\, networking
 
- **19:15** \- TBA bY Antti Kurittu
+ **19:15** \- Notes about the impending AI apocalypse by Antti Kurittu
 
  **20:00** \- Q&A\, networking
 
@@ -46,6 +46,8 @@ Cyber Security, studies and active student influence fill Juho's life at the mom
 Now he has taken a deep dive into Cyber Security at Badrap.io, by working in Ketjutonttu campaign.  
 He likes to spend time in different communities, in nature and in the sauna.
 
- 🔷 Antti Kurittu - TBA
+ 🔷 Antti Kurittu - Security Operations Manager, Aiven Oy  
+Antti is an seasoned investigator and a team leader, whose work experience include working in Nixu Cyber Defence Center, the Finnish National Cyber Security Center (NCSC-FI) and the Helsinki Police Department. He has extended experience from working with cyber incident investigations in several different roles for the last decade - in law enforcement, private-sector DFIR services and as a part of the national CERT of Finland.  
+Antti has spoken and written about cyber security issues and case investigations internationally for several years.
 
  
