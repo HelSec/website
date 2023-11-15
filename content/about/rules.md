@@ -58,7 +58,7 @@ Hallitus on päätösvaltainen, kun puheenjohtaja tai varapuheenjohtaja ja vähi
 
 ## 6§ Yhdistyksen kokoukset
 
-Yhdistys pitää vuosittain kaksi varsinaista kokousta. Yhdistyksen kevätkokous pidetään tammi-toukokuussa ja syyskokous syys-joulukuussa hallituksen määräämänä päivänä.
+Yhdistys pitää vuosittain kaksi varsinaista kokousta. Yhdistyksen kevätkokous pidetään tammi-toukokuussa ja syyskokous syys-joulukuussa hallituksen määräämänä päivänä. Yhdistyksen kokous voidaan järjestää myös virtuaalisesti ilman kokouspaikkaa.
 
 Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus katsoo siihen olevan aihetta tai kun vähintään kymmenesosa (1/10) yhdistyksen äänioikeutetuista jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun vaatimus sen pitämisestä on esitetty jollekin hallituksen jäsenelle.
 
@@ -91,7 +91,7 @@ Hallituksen on kutsuttava yhdistyksen kokoukset koolle vähintään kaksi viikko
 
 ## 7§ Yhdistyksen nimen kirjoittaminen
 
-Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, varapuheenjohtaja tai hallituksen keskuudestaan määräämä hallituksen jäsen kaksi yhdessä tai joku heistä hallituksen siihen määräämän henkilön kanssa. Hallitus voi valita yhden tai useamman henkilön kirjoittamaan yhdistyksen nimen yksin.
+Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja yksin, varapuheenjohtaja yksin, tai hallituksen keskuudestaan määräämä hallituksen jäsen kaksi yhdessä tai joku heistä hallituksen siihen määräämän henkilön kanssa.
 
 ## 8§ Tilikausi ja toiminnantarkastus/tilintarkastus
 
