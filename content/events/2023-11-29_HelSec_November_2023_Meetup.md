@@ -8,7 +8,7 @@ Welcome to the HelSec November 2023 Meetup!
 
  Powered by 2NS.
 
- Note that this event is held on **Wednesday** due space reservations.
+ Note that this event is held on **Wednesday** due to space reservations.
 
  If you're interested in having a flashtalk, please mail [masked].
 
