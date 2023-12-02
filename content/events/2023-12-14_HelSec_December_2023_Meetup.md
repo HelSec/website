@@ -24,7 +24,7 @@ link: 'https://www.meetup.com/helsec/events/296811541/'
 
  Speaker bios:
 
- 🔷 **Svitlana Chaplinska** Svitlana Chaplinska is an information security consultant at Fraktal who is committed to making security accessible and understandable for everyone. With a keen interest in the evolving role of AI in cybersecurity, she leverages her creative perspective and enthusiasm to drive positive change in the industry. Outside of her professional pursuits, she dedicates time to volunteer work, savoring coffee and traveling.
+ 🔷 **Svitlana Chaplinska** is an information security consultant at Fraktal who is committed to making security accessible and understandable for everyone. With a keen interest in the evolving role of AI in cybersecurity, she leverages her creative perspective and enthusiasm to drive positive change in the industry. Outside of her professional pursuits, she dedicates time to volunteer work, savoring coffee and traveling.
 
  🔷 **Satu Korhonen** is a Machine Learning Engineer at Solita in Finland with a mission to combine developers and business people in creating safe and robust machine learning solutions that bring long-term business value. She thrives with complicated problems with a plethora of necessary viewpoints to fill business needs while taking end-users into account to create AI solutions that are safe and secure for everyone.
 
