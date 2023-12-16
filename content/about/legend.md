@@ -7,6 +7,7 @@ The following individuals or entities have contributed to Helsec in a worthy man
 - Ilhan Gurel
 - Joona Hoikkala
 - Mikko Hyppönen
+- Ilja Ikonen
 - Samuli Järvinen
 - Laura Kankaala
 - Antti Kurittu
