@@ -25,7 +25,7 @@ The sign-ups will open **3.1 at 17:00** and can be found at:
 20:00 - Q&A, food and networking hour  
 21:00 - Joakim Tauren - TBA  
 21:45 - Q&A, networking  
-22:10 - Shamil Afilov - TBA  
+22:10 - Shamil Afilov - A brief look at all things infostealers  
 23:00 - Q&A, networking, end of stream  
 23-> - B2B DJ Set by TBA
 
@@ -34,7 +34,7 @@ The sign-ups will open **3.1 at 17:00** and can be found at:
 The speech is also a farewell to the running of the organisation, at least for the time being.  
 🔷 Joona Hoikkala - TBA  
 🔷 Joakim Tauren - CISO, Small Business Segment, Visma. Dad, fly fisher, hobby wood worker, aspiring communicator. Helping companies in Visma to make better security decisions every day.  
-🔷 Shamil Afilov - TBA
+🔷 Shamil Afilov - TurkuSec/PerSec Camp/CitySec, DisObey volunteer, Threat Intel at Nixu, Dad of twin rascals
 
  **Streaming:**  
 Meetup will be streamed on Twitch: [<https://twitch.tv/helsec](https://events.helsec.fi/redirect/?url=https%3A//twitch.tv/helsec%3AvkLheGTncgEMoRFAdQ81UFqvEiYGehvkzxo9QM6MUQo>)
