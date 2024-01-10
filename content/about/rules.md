@@ -2,7 +2,7 @@
 title: "Rules"
 ---
 
-Currently only in finnish.
+Currently only in Finnish.
 
 ## 1§ Yhdistyksen nimi ja kotipaikka
 

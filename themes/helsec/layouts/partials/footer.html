@@ -8,7 +8,7 @@
     </ul>
     {{- end -}}
     <ul class="copyright">
-        <li>&copy; HelSec Ry (3088071-5), 2019-{{ now.Format "2006" }}</li>
+        <li>Build: {{ with .GitInfo }} {{ .AbbreviatedHash }} {{ end }} > &copy; HelSec Ry (3088071-5), 2019-{{ now.Format "2006" }} </li>
         <!-- Design: HTML5 UP -> http://html5up.net -->
     </ul>
 
