@@ -1,1 +1,19 @@
-404 :D
+{{ define "main" }}
+<div id="page-wrapper">
+
+  <header id="header">
+    {{- partial "header.html" . -}}
+  </header>
+
+  <center>
+  <article id="main">
+    <section class="wrapper style2 container special-alt my-auto">
+      <div class="h-100 d-flex justify-content-center align-self-center">
+        <h2>Nothing here.</h2>
+
+        <ul class="buttons">
+          <li><a class="button" onclick="location.href={{ "" | relURL }}"><i class="fas fa-arrow-left"></i> Go
+              Home</a></li>
+        </ul>
+      </div>
+{{ end }}
