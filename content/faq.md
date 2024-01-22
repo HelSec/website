@@ -10,11 +10,11 @@ If this page does not answer your question, please don't hesitate to contact us:
 ## Membership
 ### How can I join HelSec?
 
-- You can join HelSec by filling membership application on [Flomembers](https://byte.flomembers.com/helsec/members/application)
+- You can join HelSec by filling membership application on [Flomembers](https://byte.flomembers.com/helsec/members/application?_lang=en)
 
 ### My company/employer wants to support HelSec, how can we do it?
 
-- HelSec welcomes annually support members. Price of the support membership is currently 1500&euro; and companies can apply for it on [Flomembers](https://byte.flomembers.com/helsec/members/application)
+- HelSec welcomes annually support members. Price of the support membership is currently 1500&euro; and companies can apply for it on [Flomembers](https://byte.flomembers.com/helsec/members/application?_lang=en)
 
 ## Flomembers
 ### I've forgot my password / I haven't activated my account
