@@ -16,9 +16,9 @@ If you're interested in having a flashtalk of max 15-20 mins, please mail [maske
 
  **17:30** \- Doors open  
 **18:00** \- Word by HelSec  
-**18:10** \- TBA  
+**18:10** \- Approaching GenAI with Security in mind \- Satu Korhonen  
 **19:00** \- Q&A\, networking  
-**19:15** \- TBA  
+**19:15** \- Resilience and Situational Awareness through Data Integrity \- So how do you know when you are being lied to? \- Tuuli Siiskonen  
 **20:00** \- Q&A\, networking  
 **20:30** \- Opportunity for Flashtalks\!  
 **22:00 -** Event ends
@@ -27,7 +27,7 @@ If you're interested in having a flashtalk of max 15-20 mins, please mail [maske
 
  Speaker bios:
 
- 🔷TBA  
-🔷 TBA
+ 🔷Satu Korhonen is a Machine Learning Engineer at Solita in Finland with a mission to combine developers and business people in creating safe and robust machine learning solutions that bring long-term business value. She thrives with complicated problems with a plethora of necessary viewpoints to fill business needs while taking end-users into account to create AI solutions that are safe and secure for everyone.  
+🔷 Tuuli Siiskonen is an Information Security professional, agile security coach, technology enthusiast with human interface. She does red teaming, penetration testing, security incident response, machine learning and software security in cloud, IoT and ICT. She wakes up in the morning to solve problems.
 
  
