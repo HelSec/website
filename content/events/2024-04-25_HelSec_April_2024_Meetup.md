@@ -19,9 +19,9 @@ If you're interested in having a flashtalk of max 15-20 mins, please mail [maske
 
  **17:30** \- Doors open  
 **18:00** \- Word by HelSec  
-**18:10** -TBA  
+**18:10** \- Sami Vellonen \- TBA  
 **19:00** \- Q&A\, networking  
-**19:15** -TBA  
+**19:15** \- Mikael Nilsson \- TBA  
 **20:00** \- Q&A\, networking  
 **20:30** \- Opportunity for Flashtalks\!  
 **22:00 -** Event ends
