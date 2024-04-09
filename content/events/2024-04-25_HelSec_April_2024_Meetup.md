@@ -21,7 +21,7 @@ If you're interested in having a flashtalk of max 15-20 mins, please mail [maske
 **18:00** \- Word by HelSec  
 **18:10** \- Sami Vellonen \- TBA  
 **19:00** \- Q&A\, networking  
-**19:15** \- Mikael Nilsson \- TBA  
+**19:15** \- Mikael Nilsson \- Prowling your cloud landscape \- How CSPM can help to secure your cloud and avoid configuration disasters  
 **20:00** \- Q&A\, networking  
 **20:30** \- Opportunity for Flashtalks\!  
 **22:00 -** Event ends
@@ -30,8 +30,8 @@ If you're interested in having a flashtalk of max 15-20 mins, please mail [maske
 
  Speaker bios:
 
- 🔷TBA
+ 🔷Sami Vellonen - TBA
 
- 🔷TBA
+ 🔷Mikael Nilsson works as the Product Security Lead for Customer Intelligence R&D at SAS Institute Inc. He collaborates with various teams within SAS to help design & implement secure SDLC practices to meet the ever evolving threat landscape and also works with customers to ensure SAS security practices align with customer expectations. His main focus is around the security & privacy aspects of SAS Customer Intelligence 360, a global multi-tenant marketing Software-as-a-Service solution. Outside of work he is a serious casual video gamer, likes Japanese cars & is known to sample different beers wherever he may roam.
 
  
