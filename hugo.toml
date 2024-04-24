@@ -69,13 +69,17 @@ disableHugoGeneratorInject = false
   [[params.social]]
     icon = "fab fa-discord"
     url  = "https://discord.com/invite/NBvCAm8"
+  
+  [[params.social]]
+    icon = "fab fa-discord"
+    url  = "https://discord.com/invite/NBvCAm8"
 
   [[params.social]]
     icon = "fab fa-twitter"
     url  = "https://twitter.com/HelSecurity/"
 
   [[params.social]]
-    icon = "fab fa-youtube"
+    icon = "fa-brands fa-youtube"
     url  = "https://www.youtube.com/@helsec8475"
 
   [[params.social]]
