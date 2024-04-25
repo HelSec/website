@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
 
   # The big red utton information
   buttonText = "JOIN US"
-  buttonUrl = "https://byte.flomembers.com/helsec/members/application"
+  buttonUrl = "https://byte.flomembers.com/helsec/members/application?_lang=en"
 
   # Social icons
 [[params.social]]
@@ -134,7 +134,7 @@ disableHugoGeneratorInject = false
     identifier = "apply"
     parent     = "membership"
     name       = "Apply"
-    url        = "https://byte.flomembers.com/helsec/members/application"
+    url        = "https://byte.flomembers.com/helsec/members/application?_lang=en"
     weight     = "1"
 
   [[menu.main]]
