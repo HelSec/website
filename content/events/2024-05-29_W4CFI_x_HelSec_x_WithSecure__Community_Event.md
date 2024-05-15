@@ -17,7 +17,7 @@ Women4Cyber Finland has their own quota, you only need to register to one event.
 **18:30** Welcome words by W4CFI & HelSec  
 **18:40** Psychological Safety and Diversity in Cybersecurity - Noora Hammar  
 **19:00** Q&A and Networking  
-**19:15** TBA - Christine Bejerasco  
+**19:15** Future-Proofing: Building Defenses for the Decades to Come - Christine Bejerasco  
 **19:45** Q&A and Networking  
 **20:00** Si Res Coniuncta Est, Vulnerabilis Est - Mikko Hyppönen  
 **20:30** Q&A and Networking  
