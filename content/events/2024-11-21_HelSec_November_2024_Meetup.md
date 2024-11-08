@@ -15,7 +15,7 @@ Welcome to HelSec November meetup!
  Schedule:  
 17:30 - Doors open  
 18:00 - Showtime  
-18:15 - TBA  
+18:15 - Jos Helmich - Industrial Cyber Security  
 19:00 - Break  
 19:20 - Heikki ”zokol” Juva - State of Union  
 20:00ish - Break  
@@ -25,7 +25,12 @@ Welcome to HelSec November meetup!
 
  **Speaker BIOS:**
 
- **TBA**
+ **Jos Helmich** is Product security architect in the Konecranes  
+cybersecurity team. After a long and twisted path in education, software  
+engineering, and testing he became a cybersecurity expert and is now  
+member of the ENISA (Cybersecurity Agency of the EU) Advisory Group.  
+This group gives strategic advice to the Management Board of ENISA and writes evaluations on topics like the Cybersecurity Act, NIS-2, and AI. These reports are often the basis for decisions by the European  
+Commission and the EU parliament. Today Jos will talk about how current regulation affects the manufacturing industry.
 
  **Heikki " zokol" Juva** is a hacker and engineer with extensive experience in R&D projects. Over the past decade, he has led software development and system security initiatives in battery technology and critical infrastructure sectors. His ability to create prototypes by combining mechanics, electronics, and software has been instrumental in the success of various projects, including the electronic badges for the Disobey event.
 
