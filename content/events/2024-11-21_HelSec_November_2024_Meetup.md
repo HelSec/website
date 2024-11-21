@@ -21,7 +21,7 @@ Welcome to HelSec November meetup!
 20:00ish - Break  
 20:20 - Joona "Rinorragi" Immonen - My experiences on Defender External Attack Surface Management  
 21:00 - Networking & **Opportunity for flash talks! (Send your ideas by email to [masked])**  
-23:30 - Event ends
+22:00 - Event ends
 
  **Speaker BIOS:**
 
