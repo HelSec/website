@@ -14,5 +14,5 @@ Join us on Thursday, 30th of January from 18:00 to 21:00 for a movie night. This
 
 HelSec members have instructions on how to get tickets in their inboxes. If you are a member and haven't received an e-mail, please contact the board (contact@helsec.fi).
 
-The event may be opened up to non-members closer to the event. Watch this space and our social media channels!
+The event sign-up will be opened up to non-members on Monday. Watch this space and our social media channels!
 
