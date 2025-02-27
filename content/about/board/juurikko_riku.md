@@ -1,8 +1,8 @@
 ---
 firstname: "Riku"
 lastname: "Juurikko"
-position: "Chairman"
-weight: 1
+position: "Vice member of the board"
+weight: 6
 twitter: "https://twitter.com/RikuJuu"
 linkedin: "https://www.linkedin.com/in/riku-juurikko-63614658/"
 instagram: "https://instagram.com/rikujuu"
