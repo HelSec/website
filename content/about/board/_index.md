@@ -1,5 +1,5 @@
 ---
-title: "Meet the board 2024"
+title: "Meet the board 2025"
 type: "board"
 ---
 
