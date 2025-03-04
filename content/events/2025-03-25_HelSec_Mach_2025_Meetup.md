@@ -10,7 +10,7 @@ Welcome to HelSec March 2025 meetup!
 
  **!!! ATTENTION !!!**  
 **Registration is done through HelSec ticketing system, found [here](<https://events.helsec.fi/helsec/>).**  
-**Registration opens on Tuesday 4.3 at 19:00**
+**Registration opens on Thursday 6.3 at 19:00**
 
  Schedule:
 
