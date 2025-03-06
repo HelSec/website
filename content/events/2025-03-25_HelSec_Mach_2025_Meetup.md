@@ -9,7 +9,8 @@ Welcome to HelSec March 2025 meetup!
  The event is powered by Monti
 
  **!!! ATTENTION !!!**  
-**Registration is done through HelSec ticketing system, found [here](<https://events.helsec.fi/helsec/>).**  
+**Registration is done through HelSec ticketing system, found [here](<https://events.helsec.fi/helsec/p8zcr/>).**  
+**HelSec members will receive the member-registration link by e-mail**  
 **Registration opens on Thursday 6.3 at 19:00**
 
  Schedule:
