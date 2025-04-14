@@ -15,11 +15,11 @@ Welcome to HelSec March 2025 meetup!
 
 Schedule:
 
-17:30 - Doors open
-18:00 - Showtime
-18:15 - Anssi Kolehmainen - Radio Frequency Identification
-19:00 - Break
-19:20 - Jarkko Kinnunen - Blue team needs to succeed every time and other lies we tell ourselves
-20:00ish - Break
-20:20 - Room for Flash Talks!
-21:30 - Event ends - Networking afterparty
+17:30 - Doors open  
+18:00 - Showtime  
+18:15 - Anssi Kolehmainen - Radio Frequency Identification  
+19:00 - Break  
+19:20 - Jarkko Kinnunen - Blue team needs to succeed every time and other lies we tell ourselves  
+20:00ish - Break  
+20:20 - Room for Flash Talks!  
+21:30 - Event ends - Networking afterparty  
