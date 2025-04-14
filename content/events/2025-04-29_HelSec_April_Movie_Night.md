@@ -8,9 +8,9 @@ Spring is finally here, and what better way to celebrate the season than by spen
 
 Join us on Tuesday, April 29th, from 18:30 to 21:00 for a fun evening at Cinema Orion. We will be watching the movie together at Cinema Orion, which we have rented just for us. 
 
-📅 When? Tuesday 29.4., 18:30-22:00?
-📍 Where? Cinema Orion, Eerikinkatu 15 (Kamppi)
-🎬 Doors open at 18:30, movie starts at 19:00?
+📅 When? Tuesday 29.4., 18:30-22:00?  
+📍 Where? Cinema Orion, Eerikinkatu 15 (Kamppi)  
+🎬 Doors open at 18:30, movie starts at 19:00?  
 
 **Registration is done through HelSec ticketing system, found [here](<https://events.helsec.fi/helsec/pceld/>).**  
 **Members have a link to the member ticket shop in their e-mail**
