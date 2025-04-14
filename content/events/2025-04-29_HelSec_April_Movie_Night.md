@@ -4,7 +4,8 @@ date: 2025-04-29T18:30:00+0200
 link: 'https://www.meetup.com/helsec/events/306435559/'
 ---
 
-Spring is finally here, and what better way to celebrate the season than by spending some quality time with your fellow HelSec members at a movie night! As our last movie night was unfortunately canceled earlier in the year, we're happy to announce a new try on this awesome event. This time, we'll be watching Sneakers together! (This time we also have a backup movie, in case we don't get the license in time: Blackberry)
+Spring is finally here, and what better way to celebrate the season than by spending some quality time with your fellow HelSec members at a movie night! As our last movie night was unfortunately canceled earlier in the year, we're happy to announce a new try on this awesome event. This time, we'll be watching Sneakers together! 
+(We also have a backup movie, in case we don't get the license in time: Blackberry)
 
 Join us on Tuesday, April 29th, from 18:30 to 21:00 for a fun evening at Cinema Orion. We will be watching the movie together at Cinema Orion, which we have rented just for us. 
 
