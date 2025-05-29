@@ -17,6 +17,8 @@ The following individuals or entities have contributed to Helsec in a worthy man
 - Heikki Stark
 - Niklas Särökaari
 - Joakim Tauren
+- Tomi Koski 
+- Anne Hautakangas
 
 Legend perks:
 
