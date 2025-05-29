@@ -96,14 +96,6 @@ disableHugoGeneratorInject = false
 
 [menu]
 
-# News
-
-  [[menu.main]]
-    identifier = "news"
-    name       = "News"
-    url        = "news/"
-    weight     = "1"
-
 # Events
 
   [[menu.main]]
