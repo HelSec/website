@@ -5,7 +5,8 @@ theme = "helsec"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+[pagination]
+  pagerSize = 10
 rssLimit  = 20  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -35,9 +36,6 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:title/"
 
-[author]
-  name = "Helsec"
-
 [blackfriday]
   hrefTargetBlank = true
 
@@ -47,6 +45,7 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+  author = "Helsec"
   dateformat        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
