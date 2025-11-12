@@ -19,7 +19,7 @@ The ticket claims open on 12.11 at 17:00.
 
 If your plans change, please remember to cancel your ticket so that someone on the wait list can grab your spot.
 
-**Schedule (approximate)**
+**Schedule (approximate)**  
 18:00 - Doors open  
 18:30 - Words by CitySecs  
 ~19:30 - B2B set DJ Pappa Ben Talar & DJ Young Cilantro  
