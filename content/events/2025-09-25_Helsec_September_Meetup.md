@@ -20,14 +20,14 @@ If your plans change, please remember to cancel your ticket so that someone on t
 
 ## Schedule
 
-17:30 – Doors open
-18:00 – Opening words by HelSec
-18:10 – Ismayil Hasanov
-19:00 – Q&A, networking
-19:15 – Arkadii Dubinin
-20:00 – Q&A, networking
-20:30 – Guided tour at the Museum of Malware Art
-22:00 – Event ends
+17:30 – Doors open  
+18:00 – Opening words by HelSec  
+18:10 – Ismayil Hasanov  
+19:00 – Q&A, networking  
+19:15 – Arkadii Dubinin  
+20:00 – Q&A, networking  
+20:30 – Guided tour at the Museum of Malware Art  
+22:00 – Event ends  
 
 ## Speaker bio:
 

@@ -14,14 +14,14 @@ If your plans change, please remember to cancel your ticket so that someone on t
 
 ## Schedule
 
-17:30 - Doors open
-18:00 - Word by HelSec
-18:10 - Helena Harju - Threat and Risk Modeling as a Self-Service (presentation in Finnish)
-19:00 - Q&A, networking
-19:15 - Ville Vainikka - Zero Trust Implementation in Large Organization
-20:00 - Q&A, networking
-20:30 - Antti Kurittu - Incident Response Playbooks at Konecranes
-22:00 - Event ends
+17:30 - Doors open  
+18:00 - Word by HelSec  
+18:10 - Helena Harju - Threat and Risk Modeling as a Self-Service (presentation in Finnish)  
+19:00 - Q&A, networking  
+19:15 - Ville Vainikka - Zero Trust Implementation in Large Organization  
+20:00 - Q&A, networking  
+20:30 - Antti Kurittu - Incident Response Playbooks at Konecranes  
+22:00 - Event ends  
 
 ## Speaker bio:
 

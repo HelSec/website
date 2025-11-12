@@ -18,14 +18,14 @@ As part of the program, we’ll also have flashtalks, so if you’re joining us 
 
 ## Schedule
 
-17:30 – Doors open
-18:00 - Word by HelSec
-18:10 - Antti Lehvonen - Same but different - bit about what common and what is not in IT and OT
-19:00 - Q&A, networking
-19:15 - Svitlana Chaplinska and Juho Syrjänen - Paving the Golden Path: Champions, Collaboration, and the Platform Behind It
-20:00 - Q&A, networking
-20:30 - Flash talks!
-22:00 - Event ends
+17:30 – Doors open  
+18:00 - Word by HelSec  
+18:10 - Antti Lehvonen - Same but different - bit about what common and what is not in IT and OT  
+19:00 - Q&A, networking  
+19:15 - Svitlana Chaplinska and Juho Syrjänen - Paving the Golden Path: Champions, Collaboration, and the Platform Behind It  
+20:00 - Q&A, networking  
+20:30 - Flash talks!  
+22:00 - Event ends  
 
 
 ## Speaker bio:
