@@ -26,9 +26,9 @@ If your plans change, please remember to cancel your ticket so that someone on t
 21:00 - Business City  
 23:00 - Apollo opens to public  
 
-Artist bio:
-🔷 **DJ Pappa Ben Talar & DJ Young Cilantro** team up for a B2B session that blends seasoned swagger with fresh-cut flavor. Their styles snap together like perfectly synced packets, serving a set that’s equal parts groove, grit, and green-tinted zest. It’s the kind of pairing that makes the dancefloor feel like it just discovered a new favorite algorithm.
+Artist bio:  
+🔷 **DJ Pappa Ben Talar & DJ Young Cilantro** team up for a B2B session that blends seasoned swagger with fresh-cut flavor. Their styles snap together like perfectly synced packets, serving a set that’s equal parts groove, grit, and green-tinted zest. It’s the kind of pairing that makes the dancefloor feel like it just discovered a new favorite algorithm.  
 🔷 **Business City** - Speed, pams and meatmug. Lubricant, pole and snow cannon. For those who dig fast doups, big sound and good tyckitting.
 
-**Streaming**
+**Streaming**  
 This event will not be televised.
