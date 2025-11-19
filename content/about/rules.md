@@ -49,7 +49,7 @@ Mikäli jäsen eroaa yhdistyksen jäsenyydestä, on jäsen kuitenkin velvollinen
 
 ## 5§ Hallitus
 
-Yhdistyksen asioita hoitaa hallitus, johon kuuluu syyskokouksessa valitut puheenjohtaja, varapuheenjohtaja ja 1-3 muuta varsinaista jäsentä sekä 0-1 varajäsentä. Hallitus valitsee keskuudestaan varainhoitajan, sihteerin ja muut tarvittavat toimihenkilöt.
+Yhdistyksen asioita hoitaa hallitus, johon kuuluu syyskokouksessa valitut puheenjohtaja, varapuheenjohtaja ja 1-4 muuta varsinaista jäsentä sekä 0-2 varajäsentä. Hallitus valitsee keskuudestaan varainhoitajan, sihteerin ja muut tarvittavat toimihenkilöt.
 
 Hallituksen toimikausi on kalenterivuosi. Jos hallituksen jäsen eroaa ennen toimikautensa päättymistä valitaan yhdistyksen kokouksessa uusi jäsen mikäli se katsotaan tarpeelliseksi. Mikäli varajäseniä ei ole valitaan yhdistyksen seuraavassa kokouksessa uusi jäsen siksi ajaksi, jonka eronnut olisi ollut vielä hallituksen jäsenenä.
 
