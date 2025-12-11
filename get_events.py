@@ -526,7 +526,7 @@ def main() -> None:
     organizer_slug = os.getenv("ORGANIZER_SLUG", "test")
     api_token = os.getenv("API_TOKEN")
     events_directory = os.getenv("EVENTS_DIRECTORY", "content/events")
-    specific_event_url = os.getenv("SPECIFIC_EVENT_URL")
+    specific_event_slug = os.getenv("SPECIFIC_EVENT_SLUG")
 
     if not api_token:
         raise ValueError("API_TOKEN environment variable is not set")
@@ -534,14 +534,11 @@ def main() -> None:
     logger.info("Starting Pretix API event fetcher")
 
     try:
-        # Process a specific event if URL is provided (skip future check)
-        if specific_event_url:
-            event_slug = _extract_slug_from_url(specific_event_url)
-            if not event_slug:
-                raise ValueError(f"Could not extract event slug from URL: {specific_event_url}")
-            logger.info(f"Processing specific event slug: {event_slug}")
+        # Process a specific event if provided (skip future check)
+        if specific_event_slug:
+            logger.info(f"Processing specific event slug: {specific_event_slug}")
             _process_single_event(
-                event_slug,
+                specific_event_slug,
                 pretix_url,
                 organizer_slug,
                 api_token,

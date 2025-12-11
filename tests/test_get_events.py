@@ -655,8 +655,8 @@ class TestMain:
     @patch.dict(os.environ, {
         'PRETIX_URL': 'https://events.helsec.fi',
         'ORGANIZER_SLUG': 'test',
-        'API_TOKEN': 't1pzdhkyjmvzt6nxjg9g5ayt3qaodck6qtmbqqw899vd84wutyf3l23obtd4fdm4',
-        'SPECIFIC_EVENT_URL': 'https://events.helsec.fi/helsec/u97je/'
+        'API_TOKEN': 'token',
+        'SPECIFIC_EVENT_SLUG': 'abc123'
     })
     @patch('get_events.save_markdown_file')
     @patch('get_events.file_exists')
@@ -664,7 +664,7 @@ class TestMain:
     @patch('get_events.generate_filename')
     @patch('get_events.fetch_event_details')
     @patch('get_events.fetch_events_list')
-    def test_main_specific_event_url(
+    def test_main_specific_event_slug(
         self,
         mock_fetch_list,
         mock_fetch_details,
@@ -673,31 +673,29 @@ class TestMain:
         mock_file_exists,
         mock_save_file
     ):
-        """Test processing a specific event URL (for past events)"""
-        # Setup mocks
+        """Test processing a specific event via SPECIFIC_EVENT_SLUG"""
         mock_fetch_details.return_value = {
-            'name': 'Past Event',
+            'name': 'Slug Event',
             'description': 'Test description',
             'datetime': '2023-09-28T17:30:00+0200',
-            'link': 'https://events.helsec.fi/helsec/u97je/'
+            'link': 'https://events.helsec.fi/helsec/abc123/'
         }
-        mock_generate_filename.return_value = '2023-09-28_Past_Event.md'
+        mock_generate_filename.return_value = '2023-09-28_Slug_Event.md'
         mock_file_exists.return_value = False
-        mock_create_content.return_value = '---\ntitle: Past Event\n---\nContent'
-        mock_save_file.return_value = 'content/events/2023-09-28_Past_Event.md'
-        
+        mock_create_content.return_value = '---\ntitle: Slug Event\n---\nContent'
+        mock_save_file.return_value = 'content/events/2023-09-28_Slug_Event.md'
+
         from get_events import main
         main()
-        
-        # Should NOT fetch events list when processing specific URL
+
+        # Should NOT fetch events list when processing specific slug
         mock_fetch_list.assert_not_called()
-        # Should fetch details for the specific event
+        # Should fetch details for the specific slug
         mock_fetch_details.assert_called_once_with(
             'https://events.helsec.fi',
             'test',
-            'u97je',
-            't1pzdhkyjmvzt6nxjg9g5ayt3qaodck6qtmbqqw899vd84wutyf3l23obtd4fdm4'
+            'abc123',
+            'token'
         )
-        # Should save the file
         mock_save_file.assert_called_once()
 
