@@ -14,4 +14,4 @@ If you want to fix bugs, contribute new cool layouts or something else, feel fre
 ## Run in your envinronment
 
 1. Git clone
-2. `hugo serve -FD`
+2. `hugo server -FD`
