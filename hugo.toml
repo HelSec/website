@@ -122,13 +122,6 @@ disableHugoGeneratorInject = false
     name       = "Membership"
     weight     = "3"
 
-
-  [[menu.main]]
-    identifier = "docs"
-    parent     = "membership"
-    name       = "docs"
-    url        = "members/docs"
-
   [[menu.main]]
     identifier = "apply"
     parent     = "membership"
@@ -198,3 +191,11 @@ disableHugoGeneratorInject = false
     name       = "FAQ"
     url        = "faq/"
     weight     = "10"
+
+# Privacy Policy
+
+  [[menu.main]]
+    identifier = "privacy_policy"
+    name       = "Privacy Policy"
+    url        = "privacy_policy/"
+    weight     = "11"
