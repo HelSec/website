@@ -103,6 +103,14 @@ disableHugoGeneratorInject = false
     url        = "events/"
     weight     = "2"
 
+# Swag linkit
+
+  [[menu.main]] 
+    identifier = "swag"
+    name       = "Swag Shop"
+    url        = "https://www.stadis.fi/helsec" 
+    weight     = "2"
+    
 # Members linkit
 
   [[menu.main]]
@@ -123,13 +131,6 @@ disableHugoGeneratorInject = false
     name       = "Flomembers"
     url        = "https://byte.flomembers.com/helsec/"
 
-# Swag linkit
-
-  [[menu.main]] 
-    identifier = "swag"
-    name       = "Swag Shop"
-    url        = "https://www.stadis.fi/helsec" 
-    weight     = "4"
 
 # About us linkit
 
