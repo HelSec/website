@@ -1,6 +1,11 @@
 name: Get Events
 
 on:
+# Allow auto triggering whenever there is an update to the website
+  push:
+    branches:
+      - main
+      
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
