@@ -5,7 +5,8 @@ on:
   push:
     branches:
       - main
-      
+    paths-ignore:
+      - 'content/events/**'  
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
