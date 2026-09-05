@@ -499,14 +499,14 @@ def _process_single_event(
         
         # Generate filename
         filename = generate_filename(event)
+
+        # Create markdown content 
+        markdown_content = create_markdown_content(event)
         
-        # Check if file already exists
-        if file_exists(filename, events_directory):
+        # Check if file already exists and is not a future event (since the update will happen to the future event)
+        if file_exists(filename, events_directory) and not is_future_event(event_date):
             logger.info(f"File already exists, skipping: {filename}")
             return
-        
-        # Create markdown content
-        markdown_content = create_markdown_content(event)
         
         # Save file
         file_path = save_markdown_file(filename, markdown_content, events_directory)
