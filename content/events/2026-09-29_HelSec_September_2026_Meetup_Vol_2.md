@@ -15,8 +15,8 @@ If you get a ticket but your plans change, please remember to cancel it so that 
 ## Schedule
 17:30 - Doors open  
 18:00 - Word by HelSec  
-18:10 - Speaker #1  
+18:10 - Juuso Myllylä - Windows Forensics 101: No EDR? No problem!   
 19:00 - Q&A, networking  
-19:45 - Speaker #2  
+19:45 - Nestori Syynimaa - Trust No Token: Hunting Identity-Based Attacks Beyond the IdP  
 20:30 - Q&A, networking  
 22:00 - Event ends
