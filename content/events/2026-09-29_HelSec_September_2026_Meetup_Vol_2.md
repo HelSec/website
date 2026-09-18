@@ -10,6 +10,8 @@ This event is powered by **Mehiläinen**.
 
 We are excited to invite you to join us for a community evening filled with great talks, engaging discussions, and good company on **Tuesday, September 29th**.  
 
+Location for the event is **Yellow Corner Studio Vallila**.  
+
 If you get a ticket but your plans change, please remember to cancel it so that someone on the waitlist can grab your spot.  
 
 ## Schedule

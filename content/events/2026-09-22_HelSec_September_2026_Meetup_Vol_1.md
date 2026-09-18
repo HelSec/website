@@ -10,6 +10,8 @@ This event is powered by **SANS**.
 
 We are excited to invite you to join us for a community evening filled with great talks, engaging discussions, and good company on **Tuesday, September 22nd**.  
 
+Location for the event is **Ravintola Tanner**.  
+
 If you get a ticket but your plans change, please remember to cancel it so that someone on the waitlist can grab your spot.  
 
 ## Schedule
