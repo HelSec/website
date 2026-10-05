@@ -131,6 +131,7 @@ def fetch_events_list(pretix_url: str, organizer_slug: str, api_token: str) -> L
                 slug = item.get("slug")
                 date_from = item.get("date_from")
                 public_url = item.get("public_url") or (f"{pretix_url}/{organizer_slug}/{slug}/" if slug else None)
+                location = item.get("location")
 
                 events.append({
                     "name": name,
@@ -139,6 +140,7 @@ def fetch_events_list(pretix_url: str, organizer_slug: str, api_token: str) -> L
                     "link": public_url,
                     "full_url": public_url,
                     "slug": slug,
+                    "location": location,
                 })
 
             next_url = data.get("next")
