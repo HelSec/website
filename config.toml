@@ -195,3 +195,11 @@ disableHugoGeneratorInject = false
     name       = "FAQ"
     url        = "faq/"
     weight     = "10"
+
+# Privacy Policy
+
+  [[menu.main]]
+    identifier = "privacy_policy"
+    name       = "Privacy Policy"
+    url        = "privacy_policy/"
+    weight     = "11"
