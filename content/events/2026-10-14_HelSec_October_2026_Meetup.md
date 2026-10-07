@@ -17,8 +17,8 @@ If you get a ticket but your plans change, please remember to cancel it so that 
 ## Schedule
 17:30 - Doors open  
 18:00 - Word by HelSec  
-18:10 - Niko Kivelä & Jacob Lärfors  
+18:10 - Niko Kivelä & Jacob Lärfors - Scaling DevEx Without a Platform Team using Go and AI   
 19:00 - Q&A, networking  
-19:45 - Oscar Santolalla  
+19:45 - Oscar Santolalla - The Role of Identity in Securing APIs  
 20:30 - Q&A, networking  
 22:00 - Event ends
