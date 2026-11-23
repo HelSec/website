@@ -17,4 +17,6 @@ Join us and let's have a good time! 🫶
 ## Schedule (will be updated)
 
 **18:00** - Doors open  
-**22:00** - Maxine opens to public
+**22:00** - Maxine opens to public  
+
+**DJ Pappa Ben Talar** and **DJ Kenoterapia** team up for a B2B session that blends seasoned swagger with fresh-cut flavor. Their styles snap together like perfectly synced packets, serving a set that’s equal parts groove, grit, and green-tinted zest. It’s the kind of pairing that makes the dancefloor feel like it just discovered a new favorite algorithm.
